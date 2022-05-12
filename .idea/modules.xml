@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Module2/Module2.iml" filepath="$PROJECT_DIR$/Module2/Module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmi-calculator/bmi-calculator.iml" filepath="$PROJECT_DIR$/bmi-calculator/bmi-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chuyendoinhietdo/chuyendoinhietdo.iml" filepath="$PROJECT_DIR$/chuyendoinhietdo/chuyendoinhietdo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chuyendoitiente/chuyendoitiente.iml" filepath="$PROJECT_DIR$/chuyendoitiente/chuyendoitiente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day-of-month/day-of-month.iml" filepath="$PROJECT_DIR$/day-of-month/day-of-month.iml" />
+      <module fileurl="file://$PROJECT_DIR$/delete/delete.iml" filepath="$PROJECT_DIR$/delete/delete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dientich-chuvi-hcn/dientich-chuvi-hcn.iml" filepath="$PROJECT_DIR$/dientich-chuvi-hcn/dientich-chuvi-hcn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/find-max/find-max.iml" filepath="$PROJECT_DIR$/find-max/find-max.iml" />
+      <module fileurl="file://$PROJECT_DIR$/find-min-array/find-min-array.iml" filepath="$PROJECT_DIR$/find-min-array/find-min-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greate-common-factor/greate-common-factor.iml" filepath="$PROJECT_DIR$/greate-common-factor/greate-common-factor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interest-calculation/interest-calculation.iml" filepath="$PROJECT_DIR$/interest-calculation/interest-calculation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/is-prime/is-prime.iml" filepath="$PROJECT_DIR$/is-prime/is-prime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leap-year-calculator/leap-year-calculator.iml" filepath="$PROJECT_DIR$/leap-year-calculator/leap-year-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linear-equation-resolver/linear-equation-resolver.iml" filepath="$PROJECT_DIR$/linear-equation-resolver/linear-equation-resolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menu/menu.iml" filepath="$PROJECT_DIR$/menu/menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/module 2.iml" filepath="$PROJECT_DIR$/.idea/module 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/number/number.iml" filepath="$PROJECT_DIR$/number/number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operator-expression/operator-expression.iml" filepath="$PROJECT_DIR$/operator-expression/operator-expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pt-bac2/pt-bac2.iml" filepath="$PROJECT_DIR$/pt-bac2/pt-bac2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverse-array/reverse-array.iml" filepath="$PROJECT_DIR$/reverse-array/reverse-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/value-of-array/value-of-array.iml" filepath="$PROJECT_DIR$/value-of-array/value-of-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variable-dataType/variable-dataType.iml" filepath="$PROJECT_DIR$/variable-dataType/variable-dataType.iml" />
+    </modules>
+  </component>
+</project>
