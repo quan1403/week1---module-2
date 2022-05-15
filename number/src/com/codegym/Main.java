@@ -35,6 +35,54 @@ public class Main {
                     break;
 
         }
+        switch (a){
+            case 0 :
+                num+="không";
+            case 1 :
+                num+="một";
+            case 2:
+                num+="hai";
+            case 3:
+                num+="ba";
+            case 4:
+                num+="bốn";
+            case 5:
+                num+="năm";
+            case 6:
+                num+="sáu";
+            case 7:
+                num+="bảy";
+            case 8:
+                num+="tám";
+            case 9:
+                num+="chín";
+                break;
+
+        }
+        switch (b){
+            case 0:
+                num+="linh";
+            case 1:
+                num+="mười";
+            case 2:
+                num+="hai mươi";
+            case 3:
+                num+="ba mươi";
+            case 4:
+                num+="bốn mươi";
+            case 5:
+                num+="năm mươi";
+            case 6:
+                num+="sáu mươi";
+            case 7:
+                num+="bảy mươi";
+            case 8:
+                num+="tám mươi";
+            case 9:
+                num+="chín mươi";
+        }
+        System.out.println(num);
+
 
 
 
